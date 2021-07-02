@@ -8,7 +8,6 @@ I'm a graphic designer learning the magics of code.✨
 - 🌊 I’m looking to collaborate on Free (as in freedom) Software Projects.
 - 🎨 Also on creative whatever.
 - 💬 Ask me about typefaces, grids, layouts or printing techniques.
-- 📫 How to reach me: hola@pablosanruiz.es
 - 😄 Pronouns: he/him
 - 🤟 Markdown rules!
 
